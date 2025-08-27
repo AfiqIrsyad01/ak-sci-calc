@@ -42,3 +42,5 @@ A modern, responsive scientific calculator built with Python and Pygame. This pr
   * **Scientific Functions:** The `2nd` button toggles between standard and inverse trigonometric functions.
   * **Theme Toggle:** Click the ☀️ button to switch between light and dark modes.
   * **History:** The top of the display shows a history of your previous calculation.
+
+[!Screenshot](calculator.jpg)

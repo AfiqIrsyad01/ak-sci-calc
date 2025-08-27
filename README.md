@@ -43,4 +43,4 @@ A modern, responsive scientific calculator built with Python and Pygame. This pr
   * **Theme Toggle:** Click the ☀️ button to switch between light and dark modes.
   * **History:** The top of the display shows a history of your previous calculation.
 
-[!Screenshot](calculator.jpg)
+![Screenshot](calculator.jpg)

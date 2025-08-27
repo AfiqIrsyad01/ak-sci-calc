@@ -15,7 +15,7 @@ A modern, responsive scientific calculator built with Python and Pygame. This pr
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/ScientificCalculator.git](https://github.com/AfiqIrsyad01/ak-sci-calc.git)
+    git clone https://github.com/AfiqIrsyad01/ak-sci-calc.git
     cd ScientificCalculator
     ```
 2.  **Install the dependencies:**

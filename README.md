@@ -13,6 +13,14 @@ A modern, responsive scientific calculator built with Python and Pygame. This pr
 
 ### 🚀 **Installation & Setup**
 
+#### Option 1: Using the Standalone Executable
+
+1.  Go to the **[Releases page](https://github.com/AfiqIrsyad01/ak-sci-calc/releases)** of this repository.
+2.  Download the `.zip` file for the latest release.
+3.  Unzip the file and launch the `ScientificCalculator.exe` to use the application without any installation.
+
+#### Option 2: Running from Source
+
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/AfiqIrsyad01/ak-sci-calc.git
